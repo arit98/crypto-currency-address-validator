@@ -21,4 +21,4 @@ Both SVC and Naive Bayes models achieved an accuracy rate of 86% in validating c
 - Implement real-time validation features for cryptocurrency addresses.
 
 ## Contributors
-- [Aritra Das Chowdhury]
+- [Aritra Das Chowdhury/arit98]
